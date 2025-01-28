@@ -1,0 +1,9 @@
+/* attributes selectors */
+[target="_blank"] {
+  color: red;
+  font-size: 50px;
+}
+
+[alt="image1"]{
+    background-color: green;
+}

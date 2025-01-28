@@ -1,0 +1,19 @@
+/* descendent selector */
+main p{
+    color: red;
+}
+
+/* child selector */
+h1 > p{
+    color: green;
+}
+
+/* adjacent sibling selector */
+section + p{
+    color: blue;
+}
+
+/* general sibling selector */
+section1 ~ p{
+    color: purple;
+}
